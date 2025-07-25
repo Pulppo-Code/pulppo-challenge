@@ -74,7 +74,8 @@ DELETE /api/appointments/:id
 1. **Formulario de reserva** - Selección de fecha, horario y datos del paciente
 2. **Confirmación** - Mostrar detalles de la cita creada
 3. **Panel administrativo** - Lista de citas del día
-4. **Vista responsive** - Funcional en dispositivos móviles
+
+**Nota:** En la carpeta `mockups/` encontrarás diseños visuales de referencia para cada pantalla.
 
 ---
 
