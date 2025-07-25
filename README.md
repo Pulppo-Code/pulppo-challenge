@@ -10,7 +10,7 @@
 
 ### Repositorio:
 1. **Crear repositorio privado** en GitHub o GitLab
-2. **Agregar como colaborador** a: [TU_EMAIL_O_USERNAME]
+2. **Agregar como colaborador** a: jorge.cano@pulppo.com, fernando.haspert@pulppo.com
 3. **Enviar link del repositorio** por email cuando esté completo
 
 ---
