@@ -12,6 +12,7 @@
 1. **Crear repositorio privado** en GitHub o GitLab
 2. **Agregar como colaborador** a: jorge.cano@pulppo.com, fernando.haspert@pulppo.com
 3. **Enviar link del repositorio** por email cuando esté completo
+4. **Documentar** como levantar el proyecto en el README.md
 
 ---
 
